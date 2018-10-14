@@ -1,0 +1,3 @@
+I->aA|bA|&
+S->aA|bA
+A->aS|bS|a|b

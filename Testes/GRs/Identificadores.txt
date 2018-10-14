@@ -1,0 +1,4 @@
+S->lF|aA|l
+A->lF|dF|uU|l|d
+U->lF|dF|aA|l|d
+F->lF|dF|uU|aA|l|d
