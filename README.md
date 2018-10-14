@@ -15,6 +15,10 @@ Trabalho 1 de Linguagens Formais e Compiladores (INE5421): um sistema para manip
 
 7 - Reconhecimento de sentenças aceitas por um AF e enumeração das sentenças de tamanho “n” aceitas por ele.
 
+-----------
+install tkinter for Python3.x.x:
+sudo apt-get install python3-tk 
+---------------
 Execute com
 
 $ python3 Main.py
